@@ -8,3 +8,6 @@ This quiz take customer inputs like their style preferences , events they need o
   <li>Products associated with these tags are chosen and displayed .</li></ul>
   
 ## Screenshots -:
+![Screenshot (40)](https://user-images.githubusercontent.com/67213393/115996200-f1616b80-a5fb-11eb-9e75-e2704efdd066.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/67213393/115996208-f7efe300-a5fb-11eb-87de-9397fd688a7c.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/67213393/115996214-fde5c400-a5fb-11eb-87b8-e6219202d3bf.png)
